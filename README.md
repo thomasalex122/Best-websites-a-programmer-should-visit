@@ -78,7 +78,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <h1 id="news">📰 News</h1>
 =======
 ## News
->>>>>>> parent of 8560394 (Merge pull request #1969 from thomasalex122/master)
+
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
@@ -114,10 +114,10 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-<<<<<<< HEAD
+
 
 <h1 id="magazines">📚 Magazines</h1>
-=======
+
 ## Magazines
 >>>>>>> parent of 8560394 (Merge pull request #1969 from thomasalex122/master)
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
