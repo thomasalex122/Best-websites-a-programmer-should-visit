@@ -104,6 +104,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 <h1 id="magazines">📚 Magazines</h1>
+>>>>>>> a6c83ae5c4ec944a7ed198339e16241418d30ec5
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
