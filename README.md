@@ -13,7 +13,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
-<h1 id="index"> 📖 Index</h1>
+## Index
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
@@ -51,8 +51,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#jobs">Jobs</a></li>
 </ul>
 
-
-<h1 id="when-you-get-stuck">❓ When you get stuck</h1>
+## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
@@ -66,7 +65,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-<h1 id="news">📰 News</h1>
+## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
@@ -102,9 +101,13 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<<<<<<< HEAD
 
 <h1 id="magazines">📚 Magazines</h1>
 >>>>>>> a6c83ae5c4ec944a7ed198339e16241418d30ec5
+=======
+## Magazines
+>>>>>>> parent of c3809f2 (update README with Section Headings and Visuals)
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
@@ -113,8 +116,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-<h1 id="coding-practice-for-beginners">👶 Coding practice for beginners</h1>
+## Coding practice for beginners
 - [Codedex - start your coding adventure](https://www.codedex.io) : Gamify your learning experience and have fun learning how to code!
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
@@ -149,8 +151,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-<h1 id="cryptocurrency">💰 Cryptocurrency</h1>
+## CryptoCurrency
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
@@ -168,8 +169,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-<h1 id="for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas"> 💡 For those who want to start a small project but can't find the ideas</h1>
+## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp/React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -182,8 +182,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-<h1 id="general-coding-advice">🗣️ General Coding advice</h1>
+## General Coding advice
 - [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
@@ -207,8 +206,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-<h1 id="coding-style">🎨 Coding Style</h1>
+## Coding Style
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
@@ -237,7 +235,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-<h1 id="general-tools"> 🛠️ General Tools</h1>
+## General Tools
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
